@@ -255,6 +255,19 @@ footer .detail{
     font-weight:  bold;
 }
 
+/* Link topo*/
+
+#link-topo{
+    text-decoration: none;
+    color: #FFF;
+    background-color: #62021c;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    box-shadow: 3px 3px 10px #333;
+}
+
 /* Responsivo celulares - media query */
 
 @media(max-width:450px){
