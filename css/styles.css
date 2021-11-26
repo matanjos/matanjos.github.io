@@ -200,22 +200,22 @@ h2{
     flex: 1 1 200px;
     margin-left: 25px;
     margin-right: 25px;
-    height: 300px;
+    height: 200px;
     background-size: cover;
     border-right: 2px solid #ED1E24;
     border-bottom: 2px solid #ED1E24;
 }
 
 .proj1{
-    background-image: url('../img/proj1.jpg');
+    background-image: url('../img/HelpDesk.png');
 }
 
 .proj2{
-    background-image: url('../img/proj2.jpg');
+    background-image: url('../img/SalveRio.png');
 }
 
 .proj3{
-    background-image: url('../img/proj3.jpg');
+    background-image: url('../img/RLC.png');
 }
 
 /* footer */
